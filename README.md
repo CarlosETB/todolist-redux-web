@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 
 <p align="center">
-    <img height="100px" src='https://raw.githubusercontent.com/Rocketseat/rocketseat-vscode-react-native-snippets/master/images/rocketseat_logo.png' alt="Logo">
+    <img height="100px" src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ftedxriodosul.com.br%2Fassets%2Fimg%2Fpartners%2Frocketseat.png&f=1&nofb=1' alt="Logo">
 </p>
 
 TodoList feito como teste com redux
